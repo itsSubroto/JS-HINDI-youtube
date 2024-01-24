@@ -86,3 +86,20 @@ const course ={
 const{courseInstructor: instructor} = course
 
 console.log(instructor);
+
+
+// JION file  (APIs) // =>  randomuser me api=> is a online site for apis. =>JISON formater convert the apis in good format
+
+// below are the api data looks like
+// {
+//     "name": "hitesh",
+//     "coursename": "js in hindi",
+//     "price": "free"
+// }
+
+// it is also a api data in form of array, inside the array there are objects
+[
+    {},
+    {},
+    {}
+]
