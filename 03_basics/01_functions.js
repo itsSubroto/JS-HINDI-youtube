@@ -95,7 +95,7 @@ handelObject({   //=> jodi object agge theke define kora na thake tahole .. ekha
 const myNewArray = [200, 400, 100, 600]  //declaring the array
 
 function returneSecondValue(getArray){
-  return getArray[1]  // ekhane array er name sai name ta dile hobe na .. ekhane function er parameter aa je array name use hoyeche sai array er name ta dite hobe
+  return getArray[1]  // ekhane array er name main array er name ta dile hobe na .. ekhane function er parameter aa je array name use hoyeche sai array er name ta dite hobe
 }
 
 console.log(returneSecondValue(myNewArray));
