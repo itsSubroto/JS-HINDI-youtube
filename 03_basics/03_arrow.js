@@ -41,7 +41,7 @@ const chai=  () => {      //=> arrow Function
 // const addTwo= (num1, num2) => num1 + num2
 
 
-//=> {} curli braces use hole retune likhtai hobe... but hodi curli bracket use na kore tahole return statement use na korlao cholbe
+//=> {} curli braces use hole retune likhtai hobe... but jodi curli bracket use na kore tahole return statement use na korlao cholbe
 
 // const addTwo= (num1, num2) => (num1 + num2)
 
@@ -51,4 +51,7 @@ const addTwo= (num1, num2) => ({username: "hitesh"})
 
 
 console.log(addTwo(3,4));
+
+
+
 

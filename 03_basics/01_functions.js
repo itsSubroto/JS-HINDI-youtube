@@ -18,7 +18,7 @@ function sayMyName() {
 // sayMyName()
 
 
-// parameters :- addTwoNumbers(number1, number2) , number1 & number2 are the parameters. Those variables who are use while declaring th funtion those variables are called parameters.
+// parameters :- addTwoNumbers(number1, number2) , number1 & number2 are the parameters. Those variables who are use while declaring the funtion those variables are called parameters.
 // Arguments :- addTwoNumbers(3, null) , here 3 & null are the arguments. Those variables who are declared while calling the funtion. those variables are Arguments.
 
 // function addTwoNumbers(number1, number2){
